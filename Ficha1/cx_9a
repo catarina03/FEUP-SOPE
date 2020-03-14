@@ -1,0 +1,19 @@
+#!/bin/bash
+# Script that executes the file that corresponds to the name passed in the 1st parameter
+
+file=$1
+type=.c
+type2=.o
+
+cpp=$file$type
+executable=$file$type2
+
+rm $file -f
+rm $executable -f
+
+if gcc -Wall -o $1 $cpp; then
+	./$1
+else
+	echo COMPILATION ERROR
+fi
+

@@ -1,0 +1,19 @@
+#!/bin/bash
+# Script to create a folder a number of practical classes of SOPE
+# It creates the directories in the same folder as the script
+
+echo How many TPs does SOPE have?
+
+read class_no
+
+aula=aula
+zero=0
+
+for (( i=1; i<=$class_no; i++ ))
+do
+	if [ $i -gt 9 ]; then
+		mkdir $aula$i
+	else
+		mkdir $aula$zero$i
+	fi
+done
