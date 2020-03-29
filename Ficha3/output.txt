@@ -1,0 +1,44 @@
+.:
+total 608
+drwxr-xr-x  3 catarina03 catarina03   4096 mar 29 13:34 .
+drwxr-xr-x 10 catarina03 catarina03   4096 mar 24 13:59 ..
+-rwxr-xr-x  1 catarina03 catarina03  16784 mar 29 13:33 f3_10
+-rw-r--r--  1 catarina03 catarina03   1494 mar 29 13:33 f3_10.c
+-rw-r--r--  1 catarina03 catarina03    831 mar 28 21:39 f3_1.c
+-rw-r--r--  1 catarina03 catarina03   1007 mar 10 16:06 f3_2.c
+-rw-r--r--  1 catarina03 catarina03    770 mar 10 15:26 f3_3.c
+-rwxr-xr-x  1 catarina03 catarina03  16616 mar 28 21:41 f3_4a
+-rw-r--r--  1 catarina03 catarina03    466 mar 28 23:31 f3_4.c
+-rwxr-xr-x  1 catarina03 catarina03  16616 mar 28 23:35 f3_5
+-rw-r--r--  1 catarina03 catarina03    479 mar 28 23:35 f3_5.c
+-rwxr-xr-x  1 catarina03 catarina03  16792 mar 29 00:23 f3_6a
+-rw-r--r--  1 catarina03 catarina03   2710 mar 29 02:02 f3_6.c
+-rwxr-xr-x  1 catarina03 catarina03  16792 mar 29 00:53 f3_6c
+-rwxr-xr-x  1 catarina03 catarina03  16600 mar 29 02:30 f3_7
+-rw-r--r--  1 catarina03 catarina03    334 mar 29 02:30 f3_7.c
+-rwxr-xr-x  1 catarina03 catarina03  16656 mar 29 02:35 f3_8a
+-rwxr-xr-x  1 catarina03 catarina03  16656 mar 29 02:39 f3_8b
+-rw-r--r--  1 catarina03 catarina03   2531 mar 29 03:06 f3_8.c
+-rwxr-xr-x  1 catarina03 catarina03  16656 mar 29 02:45 f3_8c
+-rwxr-xr-x  1 catarina03 catarina03  16656 mar 29 02:47 f3_8d
+-rwxr-xr-x  1 catarina03 catarina03  16656 mar 29 03:06 f3_8e
+-rwxr-xr-x  1 catarina03 catarina03  16696 mar 29 13:08 f3_9a
+-rwxr-xr-x  1 catarina03 catarina03  16696 mar 29 13:11 f3_9b
+-rw-r--r--  1 catarina03 catarina03   1313 mar 29 13:11 f3_9.c
+-rwxr-xr-x  1 catarina03 catarina03  16528 mar 10 14:55 ficha3_ex2a
+-rwxr-xr-x  1 catarina03 catarina03  16536 mar 10 15:09 ficha3_ex2c
+-rwxr-xr-x  1 catarina03 catarina03  16576 mar 10 15:19 ficha3_ex2d
+-rwxr-xr-x  1 catarina03 catarina03  16712 mar 10 15:26 ficha3_ex3
+-rwxr-xr-x  1 catarina03 catarina03  16528 mar 10 15:47 ficha3_ex4a
+-rwxr-xr-x  1 catarina03 catarina03  16576 mar 10 15:48 ficha3_ex4b
+-rw-------  1 catarina03 catarina03      0 mar 29 13:34 output.txt
+-rw-rw-r--  1 catarina03 catarina03 133155 mar 28 21:29 Prob_03.pdf
+-rwxr-xr-x  1 catarina03 catarina03  16648 mar 29 02:30 test
+-rw-r--r--  1 catarina03 catarina03    831 mar 28 21:39 test.c
+drwxr-xr-x  2 catarina03 catarina03   4096 mar 29 12:59 test_folder
+-rwxr-xr-x  1 catarina03 catarina03  16648 mar 10 14:31 tp3_ex1
+
+./test_folder:
+total 8
+drwxr-xr-x 2 catarina03 catarina03 4096 mar 29 12:59 .
+drwxr-xr-x 3 catarina03 catarina03 4096 mar 29 13:34 ..
