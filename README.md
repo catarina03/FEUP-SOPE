@@ -9,4 +9,6 @@ Exercises and projects developed during the Operating Systems curricular unit @ 
 
 
 ## Projects
-All code written in collaboration with [Ana Teresa Cruz](https://github.com/anatcruz) and [André Nascimento](https://github.com/andrenasx).
+- **First project:** [SimpleDU](https://github.com/catarina03/FEUP-SOPE-SimpleDU)
+- **Second project:** [ServerClientWC](https://github.com/catarina03/FEUP-SOPE-ServerClientWC)
+- All code written in collaboration with [Ana Teresa Cruz](https://github.com/anatcruz) and [André Nascimento](https://github.com/andrenasx).
