@@ -1,0 +1,6 @@
+[submodule "FirstProject-SimpleDU"]
+	path = FEUP-SOPE-SimpleDU
+	url = https://github.com/catarina03/FEUP-SOPE-SimpleDU.git
+[submodule "SecondProject-ServerClientWC"]
+	path = FEUP-SOPE-ServerClientWC
+	url = https://github.com/catarina03/FEUP-SOPE-ServerClientWC.git
